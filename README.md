@@ -2,7 +2,7 @@
 
 Small app that searches Google to get Maps and Places API data.
 
-You can view it here: [eloquent-murdock.netlify.app]
+You can view it here: <eloquent-murdock.netlify.app>
 
 Note: This was made as part of the LocalizaLabs React Developer bootcamp by Digital Innovation One.
 
